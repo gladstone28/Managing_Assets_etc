@@ -91,7 +91,7 @@ There are several tools we can use to modify assets. Adobe Photoshop is a common
 
 
 ###### NG: memory jog
-/c/Users/glads/Downloads/FONT_AWESOME_ICON_SIZING
+/c/Users/glads/Downloads/Managing_Assets_etc
 
 
 
